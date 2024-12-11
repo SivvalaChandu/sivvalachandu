@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native and Spring Boot**
 
-- 💬 Ask me about **Frontend and Backend(spring boot)**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **chandus0556@gmail.com**
 
