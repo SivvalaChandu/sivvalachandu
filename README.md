@@ -33,5 +33,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivvalachandu&theme=dark)
-
